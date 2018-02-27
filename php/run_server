@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#php [options] -S <addr>:<port> [-t docroot]
+php -S localhost:8080 
+
